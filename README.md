@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+- ruby '2.7.2'
 * System dependencies
 
 * Configuration
@@ -20,5 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+- deployed on  [Heroku](https://shielded-thicket-35733.herokuapp.com/cars) 
 
 * ...
